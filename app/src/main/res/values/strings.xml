@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GlobalSearch</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoieGF2aWp5IiwiYSI6ImNrYW9vemxybzBxZnMyd3F0bWYxaGoyYXIifQ.6sjbfTWnH6J09Sp3NH4P1w</string>
+</resources>
